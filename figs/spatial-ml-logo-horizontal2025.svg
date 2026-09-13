@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200">
+  <!-- Background rectangle -->
+  <rect width="500" height="200" fill="#ffffff"/>
+  
+  <!-- Square grid -->
+  <g stroke="#2c3e50" stroke-width="1">
+    <line x1="20" y1="20" x2="180" y2="20"/>
+    <line x1="20" y1="60" x2="180" y2="60"/>
+    <line x1="20" y1="100" x2="180" y2="100"/>
+    <line x1="20" y1="140" x2="180" y2="140"/>
+    <line x1="20" y1="180" x2="180" y2="180"/>
+    <line x1="20" y1="20" x2="20" y2="180"/>
+    <line x1="60" y1="20" x2="60" y2="180"/>
+    <line x1="100" y1="20" x2="100" y2="180"/>
+    <line x1="140" y1="20" x2="140" y2="180"/>
+    <line x1="180" y1="20" x2="180" y2="180"/>
+  </g>
+  
+  <!-- Dots representing data points -->
+  <g fill="#3498db">
+    <circle cx="20" cy="20" r="3"/>
+    <circle cx="60" cy="20" r="3"/>
+    <circle cx="100" cy="20" r="3"/>
+    <circle cx="140" cy="20" r="3"/>
+    <circle cx="180" cy="20" r="3"/>
+    <circle cx="20" cy="60" r="3"/>
+    <circle cx="60" cy="60" r="3"/>
+    <circle cx="100" cy="60" r="3"/>
+    <circle cx="140" cy="60" r="3"/>
+    <circle cx="180" cy="60" r="3"/>
+    <circle cx="20" cy="100" r="3"/>
+    <circle cx="60" cy="100" r="3"/>
+    <circle cx="100" cy="100" r="3"/>
+    <circle cx="140" cy="100" r="3"/>
+    <circle cx="180" cy="100" r="3"/>
+    <circle cx="20" cy="140" r="3"/>
+    <circle cx="60" cy="140" r="3"/>
+    <circle cx="100" cy="140" r="3"/>
+    <circle cx="140" cy="140" r="3"/>
+    <circle cx="180" cy="140" r="3"/>
+    <circle cx="20" cy="180" r="3"/>
+    <circle cx="60" cy="180" r="3"/>
+    <circle cx="100" cy="180" r="3"/>
+    <circle cx="140" cy="180" r="3"/>
+    <circle cx="180" cy="180" r="3"/>
+  </g>
+  
+  <!-- Connecting lines suggesting ML relationships -->
+  <g stroke="#3498db" stroke-width="1.5">
+    <line x1="20" y1="20" x2="180" y2="180"/>
+    <line x1="20" y1="180" x2="180" y2="20"/>
+    <line x1="100" y1="20" x2="100" y2="180"/>
+    <line x1="20" y1="100" x2="180" y2="100"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="220" y="80" font-family="Roboto, Arial, sans-serif" font-size="24" font-weight="700" fill="#2c3e50">ADVANCES IN</text>
+  <text x="220" y="115" font-family="Roboto, Arial, sans-serif" font-size="24" font-weight="700" fill="#2c3e50">SPATIAL MACHINE</text>
+  <text x="220" y="150" font-family="Roboto, Arial, sans-serif" font-size="24" font-weight="700" fill="#2c3e50">LEARNING</text>
+  <text x="220" y="180" font-family="Roboto, Arial, sans-serif" font-size="24" font-weight="700" fill="#3498db">2025</text>
+</svg>

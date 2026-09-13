@@ -7,10 +7,16 @@ website:
     left:
       - href: index.qmd
         text: About
+      - href: 2025.qmd
+        text: "2025"
+      - href: 2026.qmd
+        text: "2026"
       # - about.qmd
 
 format:
   html:
+    grid:
+      body-width: 1000px
     theme:
       - cosmo
       - brand
