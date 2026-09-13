@@ -1,4 +1,40 @@
 ---
-title: "ADVSML"
+title: "Advances in Spatial Machine Learning"
+toc: false
 ---
 
+**Advances in Spatial Machine Learning** is a focused workshop for a deliberately limited group of invited researchers working on spatial machine learning, particularly in environmental and geographical applications.
+
+The workshop is designed for open discussion rather than conventional conference presentations. 
+Participants bring unresolved questions, work in progress, and research challenges for which exchange with others can be useful.
+
+## Format
+
+The workshop lasts two days and brings together roughly fifteen participants. 
+It includes six focused working sessions, an introduction, and a concluding discussion. 
+Sessions combine brief scene-setting contributions with extended time for discussion and brainstorming.
+
+The atmosphere is intentionally informal and low-key. 
+Participants are expected to take part actively, share ideas openly, and contribute to discussions beyond their own session.
+
+## Aims
+
+The workshop provides space to:
+
+- identify challenges and priorities in spatial machine learning
+- compare perspectives across research groups and applications
+- discuss good practice in documentation, validation, and reproducibility
+- develop ideas for collaborations, future research, and funding
+
+<!-- ## Practical information
+
+There is no registration fee. 
+Participants are normally expected to cover their own travel and accommodation through institutional or project funds. 
+Limited support may be available for participants without another funding source, subject to the resources available for a particular edition.
+
+Participation is by invitation only.
+Information about a specific edition, including its dates, location, host, and practical arrangements, is shared directly with invited participants.
+
+## Contact
+
+For further information, please contact **[name and email to be added]**. -->
