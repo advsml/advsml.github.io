@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "ADVSML"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      # - about.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
