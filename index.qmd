@@ -5,7 +5,7 @@ toc: false
 
 **Advances in Spatial Machine Learning** is a focused workshop for a deliberately limited group of invited researchers working on spatial machine learning, particularly in environmental and geographical applications.
 
-![](figs/spatial-ml-logo-horizontal.svg){fig-alt="Advances in Spatial Machine Learning workshop logo"}
+![](figs/spatial-ml-logo-horizontal.svg){fig-alt="Advances in Spatial Machine Learning workshop logo" width=300}
 
 The workshop is designed for open discussion rather than conventional conference presentations.
 Participants bring unresolved questions, work in progress, and research challenges for which exchange with others can be useful.
