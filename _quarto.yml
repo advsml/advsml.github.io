@@ -1,20 +1,30 @@
 project:
   type: website
+  render:
+    - "*.qmd"
+    - "!2027.qmd"
 
 website:
-  title: "ADVSML"
+  title: "Advances in Spatial Machine Learning"
+  description: "A workshop on open questions and challenges in spatial machine learning."
   navbar:
+    background: light
     left:
       - href: index.qmd
-        text: About
-      - href: 2025.qmd
-        text: "2025"
-      - href: 2026.qmd
-        text: "2026"
-      # - about.qmd
+        text: Home
+      - text: Past editions
+        menu:
+          - href: 2026.qmd
+            text: 2026 workshop
+          - href: 2025.qmd
+            text: 2025 workshop
+  page-footer:
+    left: "Advances in Spatial Machine Learning"
+    right: "Built with Quarto"
 
 format:
   html:
+    lang: en
     grid:
       body-width: 1000px
     theme:
@@ -22,6 +32,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-
