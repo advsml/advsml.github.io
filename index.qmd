@@ -10,10 +10,6 @@ toc: false
 The workshop is designed for open discussion rather than conventional conference presentations.
 Participants bring unresolved questions, work in progress, and research challenges for which exchange with others can be useful.
 
-## 2027 edition
-
-The next edition is currently being prepared. Further information about the dates, location, program, participants, and organizers will be added when available.
-
 ## Format
 
 The workshop lasts two days and brings together roughly fifteen participants.
@@ -31,6 +27,11 @@ The workshop provides space to:
 - compare perspectives across research groups and applications
 - discuss good practice in documentation, validation, and reproducibility
 - develop ideas for collaborations, future research, and funding
+
+## 2027 edition
+
+The next edition is currently being prepared.
+Further information about the dates, location, program, participants, and organizers will be added when available.
 
 ## Past editions
 
