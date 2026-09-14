@@ -2,7 +2,7 @@
 title: "Advances in Spatial Machine Learning 2025: A Two-Day Scientific Workshop"
 ---
 
-<img src="figs/spatial-ml-logo-horizontal.png" align="right" alt="" width="350" /> 
+<img src="figs/spatial-ml-logo-horizontal2025.png" align="right" alt="" width="350" /> 
 
 ## Workshop Overview
 
