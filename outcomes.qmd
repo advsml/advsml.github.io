@@ -1,0 +1,19 @@
+---
+title: "Workshop outcomes"
+description: "Publications and other outcomes emerging from the Advances in Spatial Machine Learning workshop series."
+---
+
+<!-- The workshop series is intended to support ongoing collaboration and to turn discussions about open questions in spatial machine learning into useful scientific outputs. -->
+
+## Published papers
+
+> Nowosad, J., Bonannella, C., Görgen, D., Jemeljanova, M., Kattenborn, T., Linnenbrink, J., Meyer, H., Nussbaum, M., Patelli, L., Simoes, R., & Uuemaa, E. (2026). Navigating challenges in spatial machine learning: Validation, uncertainty, algorithms, and reproducibility. *Erdkunde*. <https://doi.org/10.3112/erdkunde.2026.04.01>
+
+## Future outcomes
+
+This page will be updated as further outcomes emerge from the workshop series.
+Possible outcomes include additional publications, software, guidelines, datasets, presentations, and collaborative research projects.
+
+<!-- ### 2027 edition
+
+Outcomes from the 2027 edition will be added here as they become available. -->

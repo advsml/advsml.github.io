@@ -12,6 +12,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: outcomes.qmd
+        text: Outcomes
       - text: Past editions
         menu:
           - href: 2026.qmd
