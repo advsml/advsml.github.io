@@ -1,0 +1,14 @@
+---
+title: "Advances in Spatial Machine Learning 2027"
+subtitle: "Workshop details to be announced"
+draft: true
+toc: false
+---
+
+::: {.callout-note}
+## Preparation underway
+
+The 2027 edition is currently being prepared. Dates, location, program, participants, organizers, and practical information will be added here when confirmed.
+:::
+
+Further information will be announced in due course.
