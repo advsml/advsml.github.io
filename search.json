@@ -1,66 +1,17 @@
 [
   {
-    "objectID": "2026.html#workshop-overview",
-    "href": "2026.html#workshop-overview",
-    "title": "Advances in Spatial Machine Learning 2026",
-    "section": "Workshop Overview",
-    "text": "Workshop Overview\nThis two-day scientific workshop aims to bring together leading researchers in the field of spatial machine learning. Unlike many conferences that focus on showcasing achievements, our goal is to address unsolved issues and open questions, fostering innovation and collaboration."
-  },
-  {
-    "objectID": "2026.html#key-topics",
-    "href": "2026.html#key-topics",
-    "title": "Advances in Spatial Machine Learning 2026",
-    "section": "Key Topics",
-    "text": "Key Topics\n\nValidation and Preservation of Spatial Patterns: Ensuring models provide accurate local predictions while preserving important spatial patterns.\n(Spatial) xAI\nHow to ensure that the spatial ML model is useful?: how to avoid overfitting, do we need better algorithms or better training and validation data?\nCommon mistakes in spatial ML\nNew methods/emerging trends (e.g., foundational models, conformal predictions, etc.)\nAn “open” session - we welcome participants to propose relevant topics."
-  },
-  {
-    "objectID": "2026.html#location-and-date",
-    "href": "2026.html#location-and-date",
-    "title": "Advances in Spatial Machine Learning 2026",
-    "section": "Location and Date",
-    "text": "Location and Date\nThe workshop will take place 9-10 April 2026 at the University of Tartu Library, W. Struve tn 1, 50091 Tartu, Estonia."
-  },
-  {
-    "objectID": "2026.html#program",
-    "href": "2026.html#program",
-    "title": "Advances in Spatial Machine Learning 2026",
-    "section": "Program",
-    "text": "Program\n\n\n\nDay/time\nTopic\n\n\n\n\nWed, Apr 8\n\n\n\n19:30–…\nIce breaker at RP9\n\n\nThu, Apr 9\n\n\n\n9:00–10:30\nIntroductions\n\n\n10:30–11:00\nCoffee break/ Posters\n\n\n11:00–12:30\nSession: Common mistakes/challenges in spatial ML. Chair: Alexander Brenning\n\n\n12:30–13:30\nLunch/ Posters\n\n\n13:30–15:00\nSession: How to ensure that the spatial ML model is useful? Chair: Laura Poggio\n\n\n15:00–15:30\nCoffee break/ Posters\n\n\n15:30–17:00\nSession: Spatial validation. Chairs: Hanna Meyer, Jakub Nowosad, Mahdi Khodadadzadeh\n\n\n18:00–19:30\nCity Excursion\n\n\n19:30–…\nJoint dinner at Kolm Tilli\n\n\nFri, Apr 10\n\n\n\n9:00-10:30\nSession: xAI in spatial ML. Chair: Lily-Belle Sweet\n\n\n10:30-11:00\nCoffee break /Posters\n\n\n11:00-12:30\nEmerging trends: Foundation models in spatial ML. Chair: Jonas Schmidinger\n\n\n12:30-13:30\nLunch /Posters\n\n\n13:30-15:00\nEmerging trends: DGGS in spatial ML. Chair: Alexander Kmoch\n\n\n15:00-15:30\nCoffee break /Posters\n\n\n15:30-17:00\nWrap-up and future plans\n\n\n\n\nOpen session: posters\nIf you would like to present a poster related to your work in spatial machine learning, we will have a poster session area available during all coffee breaks and lunch sessions. We especially encourage PhD students to bring and present their posters."
-  },
-  {
-    "objectID": "2026.html#participants",
-    "href": "2026.html#participants",
-    "title": "Advances in Spatial Machine Learning 2026",
-    "section": "Participants",
-    "text": "Participants\nWe invited researchers actively working on spatial machine learning and deep learning:\n\nAlexander Brenning\nLaura Poggio\nFelix Henkel\nJonas Schmidinger\nJonathan Frank\nLily-belle Sweet\nMahdi Khodadadzadeh\nAlexander Kmoch\nIris Luik\nLiina Hints\nJeonghwan Choi\nEvelyn Uuemaa\nMarta Jemeljanova\nHanna Meyer\nJakub Nowosad"
-  },
-  {
-    "objectID": "2026.html#expected-outcomes",
-    "href": "2026.html#expected-outcomes",
-    "title": "Advances in Spatial Machine Learning 2026",
-    "section": "Expected Outcomes",
-    "text": "Expected Outcomes\nBy bringing together experts in the field, we anticipate:\n\nIdentifying key challenges and research priorities in spatial machine learning\nFostering collaborations between different research groups\nDeveloping guidelines for best practices in spatial machine learning documentation and validation\nGenerating ideas for future research projects and potential funding opportunities\n\nThis workshop represents a unique opportunity to shape the future of spatial machine learning in ecological research by focusing on open questions and challenges."
-  },
-  {
-    "objectID": "2026.html#organizers",
-    "href": "2026.html#organizers",
-    "title": "Advances in Spatial Machine Learning 2026",
-    "section": "Organizers",
-    "text": "Organizers\n\nEvelyn Uuemaa, Landscape Geoinformatics Lab, University of Tartu\nMarta Jemeljanova, Landscape Geoinformatics Lab, University of Tartu\nHanna Meyer, University of Münster\nJakub Nowosad, Adam Mickiewicz University; University of Münster"
-  },
-  {
-    "objectID": "2026.html#supported-by",
-    "href": "2026.html#supported-by",
-    "title": "Advances in Spatial Machine Learning 2026",
-    "section": "Supported by",
-    "text": "Supported by"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Advances in Spatial Machine Learning",
     "section": "",
     "text": "Advances in Spatial Machine Learning is a focused workshop for a deliberately limited group of invited researchers working on spatial machine learning, particularly in environmental and geographical applications.\nThe workshop is designed for open discussion rather than conventional conference presentations. Participants bring unresolved questions, work in progress, and research challenges for which exchange with others can be useful."
+  },
+  {
+    "objectID": "index.html#edition",
+    "href": "index.html#edition",
+    "title": "Advances in Spatial Machine Learning",
+    "section": "2027 edition",
+    "text": "2027 edition\nThe next edition is currently being prepared. Further information about the dates, location, program, participants, and organizers will be added when available."
   },
   {
     "objectID": "index.html#format",
@@ -75,6 +26,13 @@
     "title": "Advances in Spatial Machine Learning",
     "section": "Aims",
     "text": "Aims\nThe workshop provides space to:\n\nidentify challenges and priorities in spatial machine learning\ncompare perspectives across research groups and applications\ndiscuss good practice in documentation, validation, and reproducibility\ndevelop ideas for collaborations, future research, and funding"
+  },
+  {
+    "objectID": "index.html#past-editions",
+    "href": "index.html#past-editions",
+    "title": "Advances in Spatial Machine Learning",
+    "section": "Past editions",
+    "text": "Past editions\n\n2026 workshop\n2025 workshop"
   },
   {
     "objectID": "2025.html#workshop-overview",
@@ -129,6 +87,62 @@
     "objectID": "2025.html#supported-by",
     "href": "2025.html#supported-by",
     "title": "Advances in Spatial Machine Learning 2025: A Two-Day Scientific Workshop",
+    "section": "Supported by",
+    "text": "Supported by"
+  },
+  {
+    "objectID": "2026.html#workshop-overview",
+    "href": "2026.html#workshop-overview",
+    "title": "Advances in Spatial Machine Learning 2026",
+    "section": "Workshop Overview",
+    "text": "Workshop Overview\nThis two-day scientific workshop aims to bring together leading researchers in the field of spatial machine learning. Unlike many conferences that focus on showcasing achievements, our goal is to address unsolved issues and open questions, fostering innovation and collaboration."
+  },
+  {
+    "objectID": "2026.html#key-topics",
+    "href": "2026.html#key-topics",
+    "title": "Advances in Spatial Machine Learning 2026",
+    "section": "Key Topics",
+    "text": "Key Topics\n\nValidation and Preservation of Spatial Patterns: Ensuring models provide accurate local predictions while preserving important spatial patterns.\n(Spatial) xAI\nHow to ensure that the spatial ML model is useful?: how to avoid overfitting, do we need better algorithms or better training and validation data?\nCommon mistakes in spatial ML\nNew methods/emerging trends (e.g., foundational models, conformal predictions, etc.)\nAn “open” session - we welcome participants to propose relevant topics."
+  },
+  {
+    "objectID": "2026.html#location-and-date",
+    "href": "2026.html#location-and-date",
+    "title": "Advances in Spatial Machine Learning 2026",
+    "section": "Location and Date",
+    "text": "Location and Date\nThe workshop will take place 9-10 April 2026 at the University of Tartu Library, W. Struve tn 1, 50091 Tartu, Estonia."
+  },
+  {
+    "objectID": "2026.html#program",
+    "href": "2026.html#program",
+    "title": "Advances in Spatial Machine Learning 2026",
+    "section": "Program",
+    "text": "Program\n\n\n\nDay/time\nTopic\n\n\n\n\nWed, Apr 8\n\n\n\n19:30–…\nIce breaker at RP9\n\n\nThu, Apr 9\n\n\n\n9:00–10:30\nIntroductions\n\n\n10:30–11:00\nCoffee break/ Posters\n\n\n11:00–12:30\nSession: Common mistakes/challenges in spatial ML. Chair: Alexander Brenning\n\n\n12:30–13:30\nLunch/ Posters\n\n\n13:30–15:00\nSession: How to ensure that the spatial ML model is useful? Chair: Laura Poggio\n\n\n15:00–15:30\nCoffee break/ Posters\n\n\n15:30–17:00\nSession: Spatial validation. Chairs: Hanna Meyer, Jakub Nowosad, Mahdi Khodadadzadeh\n\n\n18:00–19:30\nCity Excursion\n\n\n19:30–…\nJoint dinner at Kolm Tilli\n\n\nFri, Apr 10\n\n\n\n9:00-10:30\nSession: xAI in spatial ML. Chair: Lily-Belle Sweet\n\n\n10:30-11:00\nCoffee break /Posters\n\n\n11:00-12:30\nEmerging trends: Foundation models in spatial ML. Chair: Jonas Schmidinger\n\n\n12:30-13:30\nLunch /Posters\n\n\n13:30-15:00\nEmerging trends: DGGS in spatial ML. Chair: Alexander Kmoch\n\n\n15:00-15:30\nCoffee break /Posters\n\n\n15:30-17:00\nWrap-up and future plans\n\n\n\n\nOpen session: posters\nIf you would like to present a poster related to your work in spatial machine learning, we will have a poster session area available during all coffee breaks and lunch sessions. We especially encourage PhD students to bring and present their posters."
+  },
+  {
+    "objectID": "2026.html#participants",
+    "href": "2026.html#participants",
+    "title": "Advances in Spatial Machine Learning 2026",
+    "section": "Participants",
+    "text": "Participants\nWe invited researchers actively working on spatial machine learning and deep learning:\n\nAlexander Brenning\nLaura Poggio\nFelix Henkel\nJonas Schmidinger\nJonathan Frank\nLily-belle Sweet\nMahdi Khodadadzadeh\nAlexander Kmoch\nIris Luik\nLiina Hints\nJeonghwan Choi\nEvelyn Uuemaa\nMarta Jemeljanova\nHanna Meyer\nJakub Nowosad"
+  },
+  {
+    "objectID": "2026.html#expected-outcomes",
+    "href": "2026.html#expected-outcomes",
+    "title": "Advances in Spatial Machine Learning 2026",
+    "section": "Expected Outcomes",
+    "text": "Expected Outcomes\nBy bringing together experts in the field, we anticipate:\n\nIdentifying key challenges and research priorities in spatial machine learning\nFostering collaborations between different research groups\nDeveloping guidelines for best practices in spatial machine learning documentation and validation\nGenerating ideas for future research projects and potential funding opportunities\n\nThis workshop represents a unique opportunity to shape the future of spatial machine learning in ecological research by focusing on open questions and challenges."
+  },
+  {
+    "objectID": "2026.html#organizers",
+    "href": "2026.html#organizers",
+    "title": "Advances in Spatial Machine Learning 2026",
+    "section": "Organizers",
+    "text": "Organizers\n\nEvelyn Uuemaa, Landscape Geoinformatics Lab, University of Tartu\nMarta Jemeljanova, Landscape Geoinformatics Lab, University of Tartu\nHanna Meyer, University of Münster\nJakub Nowosad, Adam Mickiewicz University; University of Münster"
+  },
+  {
+    "objectID": "2026.html#supported-by",
+    "href": "2026.html#supported-by",
+    "title": "Advances in Spatial Machine Learning 2026",
     "section": "Supported by",
     "text": "Supported by"
   }
