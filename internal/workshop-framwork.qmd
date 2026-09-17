@@ -1,0 +1,65 @@
+---
+title: "Advances in Spatial Machine Learning: Workshop Framework"
+description: "Internal framework for organising the Advances in Spatial Machine Learning workshop series."
+---
+
+<!-- maybe add info about prefered timing of the workshop (Feb-March?) -->
+
+This is an internal framework for the organisers of the **Advances in Spatial Machine Learning** workshop series.
+It sets out the character and principles that should be preserved across editions.
+Edition-specific details may vary, but organisers should use this document as a shared point of reference when planning the programme and inviting participants.
+
+## Purpose
+
+The workshop brings together a deliberately limited group of researchers working on spatial machine learning, particularly in environmental and geographical applications.
+It is a place to discuss open questions, unresolved methodological problems, and work in progress -- not primarily to present completed results.
+
+The workshop should help participants to:
+
+- identify challenges and priorities in spatial machine learning
+- compare perspectives across methods, applications, and research groups
+- discuss good practice in validation, documentation, and reproducibility
+- develop ideas for collaboration, future research, and funding
+
+## Format
+
+A typical edition lasts two days and brings together roughly fifteen invited participants. 
+The group should remain small enough for everyone to take part in the full programme and for informal conversations to continue between sessions. 
+The number of participants and the balance of topics may vary, but the deliberately limited scale is central to the workshop’s character.
+
+Sessions should combine brief contributions, such as presentations, demonstrations, or other starting points, with substantial time for discussion and brainstorming. 
+Each session should have a clear topic or motivating question and someone to help guide the conversation, while leaving enough flexibility for useful ideas to develop.
+
+The workshop should be informal, low-key, and intellectually open.
+It should be prepared well enough to support productive discussion, but not so tightly programmed that questions and connections emerging during the event have no room.
+
+The organisers should agree with participants what may be shared outside the workshop. 
+In particular, it should be clear whether discussions are private, whether notes are taken, and whether materials or a summary may be circulated afterwards.
+Any public output should be agreed separately with the people involved.
+
+## Principles for participation
+
+The workshop is invitation-only. 
+Participants should be selected for their connection to spatial machine learning or a related field and for the perspectives they can contribute.
+The group should include a useful mix of methods, applications, institutions, and career stages.
+
+Participants are expected to:
+
+- contribute actively and listen carefully
+- engage with questions beyond their own research
+- be willing to discuss preliminary ideas, uncertainty, failed approaches, and disagreement
+
+The organisers should aim for an atmosphere in which participants can do this without the pressure to present polished results.
+
+## Practical principles
+
+The workshop should have no registration fee, if possible.
+Participants are normally expected to cover their own travel and accommodation, with limited support where resources for a particular edition allow.
+
+The venue should provide one comfortable room for the whole group, suitable facilities for discussion and basic presentations, practical arrangements for breaks and meals, and reasonable accessibility.
+Organisers should communicate the edition-specific arrangements clearly to invited participants.
+
+## Outcomes
+
+The workshop has no required formal deliverable.
+It may lead to a better-defined set of challenges and research priorities, shared ideas about validation and reproducibility, new or strengthened collaborations, and ideas for future research, publications, software, or funding.
