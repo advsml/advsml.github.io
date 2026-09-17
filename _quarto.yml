@@ -14,6 +14,7 @@ website:
         text: Home
       - href: outcomes.qmd
         text: Outcomes
+    right:
       - text: Past editions
         menu:
           - href: 2026.qmd
@@ -22,7 +23,10 @@ website:
             text: 2025 workshop
   page-footer:
     left: "Advances in Spatial Machine Learning"
-    right: "Built with Quarto"
+    right: 
+      - "Built with Quarto"
+      - icon: github
+        href: https://github.com/advsml/advsml.github.io
 
 format:
   html:
