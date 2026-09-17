@@ -13,7 +13,7 @@ Participants bring unresolved questions, work in progress, and research challeng
 ## Format
 
 The workshop lasts two days and brings together roughly fifteen participants.
-It includes six focused working sessions, an introduction, and a concluding discussion. 
+<!--It includes six focused working sessions, an introduction, and a concluding discussion.--> 
 Sessions combine brief scene-setting contributions with extended time for discussion and brainstorming.
 
 The atmosphere is intentionally informal and low-key. 
