@@ -3,8 +3,6 @@ title: "Advances in Spatial Machine Learning: Workshop Framework"
 description: "Internal framework for organising the Advances in Spatial Machine Learning workshop series."
 ---
 
-<!-- maybe add info about prefered timing of the workshop (Feb-March?) -->
-
 This is an internal framework for the organisers of the **Advances in Spatial Machine Learning** workshop series.
 It sets out the character and principles that should be preserved across editions.
 Edition-specific details may vary, but organisers should use this document as a shared point of reference when planning the programme and inviting participants.
@@ -24,6 +22,7 @@ The workshop should help participants to:
 ## Format
 
 A typical edition lasts two days and brings together roughly fifteen invited participants. 
+To provide some continuity across editions, the workshop should preferably be scheduled between February and early April.
 The group should remain small enough for everyone to take part in the full programme and for informal conversations to continue between sessions. 
 The number of participants and the balance of topics may vary, but the deliberately limited scale is central to the workshop’s character.
 
