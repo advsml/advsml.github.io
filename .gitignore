@@ -1,3 +1,7 @@
 _site
 /.quarto/
 **/*.quarto_ipynb
+
+# Output from rendering individual root-level Quarto documents
+/*.html
+/*_files/
