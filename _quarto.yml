@@ -2,7 +2,6 @@ project:
   type: website
   render:
     - "*.qmd"
-    - "!2027.qmd"
 
 website:
   title: "Advances in Spatial Machine Learning"
