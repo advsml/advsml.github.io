@@ -13,7 +13,7 @@ Unlike many conferences that focus on showcasing achievements, our goal is to ad
 ## Key Topics
 
 1. **Process-informed and knowledge-guided machine learning**
-2. **Geospatial foundation models, embeddings and multi-model AI**
+2. **Geospatial foundation models, embeddings and multimodal AI**
 3. **Uncertainty quantification in spatial machine learning**
 4. **Model generalizability in non-stationary environmental regimes**
 5. **Explainable GeoAI**
@@ -73,6 +73,9 @@ This workshop represents a unique opportunity to shape the future of spatial mac
 ## Organizers
 
 - [Alexander Brenning, University of Jena](https://www.chemgeo.uni-jena.de/30866/brenning)
+- [Felix Henkel](https://www.chemgeo.uni-jena.de/43692/henkel)
+- [Florian Strohmaier](https://www.chemgeo.uni-jena.de/30943/strohmaier)
+- [Bettina Böhm](https://www.chemgeo.uni-jena.de/30833/boehm)
 - [Hanna Meyer, University of Münster](https://www.uni-muenster.de/RemoteSensing/team/meyer/index.html)
 - [Jakub Nowosad, Adam Mickiewicz University; University of Münster](https://jakubnowosad.com/)
 
