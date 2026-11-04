@@ -1,7 +1,6 @@
 ---
 title: "Advances in Spatial Machine Learning 2027"
 subtitle: "A Two-Day Scientific Workshop"
-toc: false
 ---
 
 <img src="figs/spatial-ml-logo-horizontal2027.png" align="right" alt="" width="350" />
