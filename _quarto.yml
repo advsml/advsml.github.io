@@ -14,6 +14,8 @@ website:
         text: Home
       - href: outcomes.qmd
         text: Outcomes
+      - href: 2027.qmd
+        text: 2027 workshop
     right:
       - text: Past editions
         menu:
